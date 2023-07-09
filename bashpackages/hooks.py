@@ -199,3 +199,4 @@ app_license = "MIT"
 # auth_hooks = [
 #	"bashpackages.auth.validate"
 # ]
+required_apps = ['erpnext']
